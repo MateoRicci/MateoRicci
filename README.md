@@ -2,7 +2,7 @@
 
 I'm Mateo Ricci Villarruel.
 
-I am passionate 💙 about computer science, mathematics>
+I am passionate about mathematics, computer science and some video games
 
 Today I'm currently finishing my CS degree and I'm an ICPC competitor
 
