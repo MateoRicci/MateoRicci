@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi! :wave:</h1>
 
-<!--
-**MateoRicci/MateoRicci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mateo Ricci Villarruel.
 
-Here are some ideas to get you started:
+I am passionate 💙 about computer science, mathematics>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Today I'm currently finishing my CS degree and I'm an ICPC competitor
+
+<h3>My Competitive Programming Stats</h3>
+
+<div align="center">
+  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=MateoR&theme=transparent&force_username=true&border_color=00000000" alt="codeforces statistic" height="225" width="auto" >
+</div>
